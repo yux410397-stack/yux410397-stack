@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- My name is Yu Xiao
+- My student ID is 24144673
+- I come from Shandong, China
+- My hobby is playing badminton.
+- During holidays, I like to travel.
 <!--
 **yux410397-stack/yux410397-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
